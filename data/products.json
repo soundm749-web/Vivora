@@ -1,0 +1,93 @@
+[
+  {
+    "id": "robot-aspirador-pro",
+    "name": "Robot Aspirador Inteligente ConnectHome",
+    "description": "Robot aspirador con mapeo láser, control por app y vaciado automático. Ideal para mantener tu hogar limpio sin esfuerzo, compatible con Alexa y Google Home.",
+    "image_url": "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?w=800&q=80",
+    "affiliate_link": "https://www.amazon.com/dp/EJEMPLO1?tag=vivora-20",
+    "category": "smart-home",
+    "price": 349.99,
+    "discountedPrice": 279.99,
+    "isFeatured": true,
+    "pros": [
+      "Mapeo láser muy preciso",
+      "Vaciado automático hasta 60 días",
+      "Compatible con asistentes de voz"
+    ],
+    "contras": [
+      "Precio elevado",
+      "La app a veces tarda en sincronizar"
+    ],
+    "destacado_editorial": "El favorito del equipo Vivora para hogares con mascotas: aspira pelo de mascota sin atascarse.",
+    "valoracion_media": 4.6,
+    "resenas_resumen": "Más de 2.300 reseñas destacan la potencia de succión y la comodidad del vaciado automático."
+  },
+  {
+    "id": "freidora-aire-digital",
+    "name": "Freidora de Aire Digital 6.5L FamilyChef",
+    "description": "Freidora de aire de gran capacidad con 8 programas preestablecidos, panel táctil digital y cesta antiadherente apta para lavavajillas.",
+    "image_url": "https://images.unsplash.com/photo-1648146338942-bd2a13b3b8e3?w=800&q=80",
+    "affiliate_link": "https://www.amazon.com/dp/EJEMPLO2?tag=vivora-20",
+    "category": "cocina",
+    "price": 89.99,
+    "discountedPrice": 64.99,
+    "isFeatured": true,
+    "pros": [
+      "Gran capacidad para familias",
+      "Fácil de limpiar",
+      "Cocción uniforme y rápida"
+    ],
+    "contras": [
+      "Ocupa bastante espacio en la encimera",
+      "El manual podría ser más claro"
+    ],
+    "destacado_editorial": "Perfecta para quienes empiezan a cocinar más saludable sin renunciar al sabor crujiente.",
+    "valoracion_media": 4.7,
+    "resenas_resumen": "Usuarios destacan que reduce el uso de aceite hasta un 90% manteniendo el sabor."
+  },
+  {
+    "id": "organizador-modular-cocina",
+    "name": "Set Organizador Modular de Despensa",
+    "description": "Conjunto de 12 botes herméticos apilables con etiquetas y tapas con cierre hermético, perfectos para organizar la despensa y mantener los alimentos frescos.",
+    "image_url": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?w=800&q=80",
+    "affiliate_link": "https://www.amazon.com/dp/EJEMPLO3?tag=vivora-20",
+    "category": "organizacion",
+    "price": 45.99,
+    "discountedPrice": 35.99,
+    "isFeatured": true,
+    "pros": [
+      "Diseño apilable que ahorra espacio",
+      "Mantiene los alimentos frescos por más tiempo",
+      "Incluye etiquetas reutilizables"
+    ],
+    "contras": [
+      "Las tapas pueden quitarse con algo de fuerza al inicio"
+    ],
+    "destacado_editorial": "Transforma cualquier despensa en un espacio digno de Pinterest en una tarde.",
+    "valoracion_media": 4.5,
+    "resenas_resumen": "Muy valorado por su estética minimalista y la calidad hermética de los cierres."
+  },
+  {
+    "id": "mopa-vapor-multiuso",
+    "name": "Mopa de Vapor Multiuso SteamClean",
+    "description": "Mopa a vapor para todo tipo de suelos, elimina el 99.9% de gérmenes sin productos químicos. Incluye paños de microfibra lavables y calentamiento en 30 segundos.",
+    "image_url": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80",
+    "affiliate_link": "https://www.amazon.com/dp/EJEMPLO4?tag=vivora-20",
+    "category": "limpieza",
+    "price": 79.99,
+    "discountedPrice": 59.99,
+    "isFeatured": false,
+    "pros": [
+      "Limpieza sin químicos",
+      "Calienta muy rápido",
+      "Ligera y fácil de manejar"
+    ],
+    "contras": [
+      "El depósito de agua es algo pequeño",
+      "Cable un poco corto"
+    ],
+    "destacado_editorial": "Ideal para familias con niños pequeños o alergias, gracias a su limpieza 100% natural.",
+    "valoracion_media": 4.4,
+    "resenas_resumen": "Reseñas resaltan lo práctica que resulta para limpiezas rápidas diarias."
+  }
+]
