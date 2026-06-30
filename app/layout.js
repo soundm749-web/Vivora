@@ -1,3 +1,4 @@
+import Image from "next/image";
 import "./globals.css";
 
 export const metadata = {
@@ -22,12 +23,23 @@ function Header() {
   return (
     <header className="border-b border-beige-200 bg-crema-50/90 backdrop-blur">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-5">
-        <a href="/" className="font-display text-2xl font-bold text-terracota-600">
-          Vivora
+        <a href="/" className="flex items-center gap-2">
+          <Image
+            src="/logo.png"
+            alt="Vivora"
+            width={48}
+            height={48}
+            className="h-10 w-10 sm:h-12 sm:w-12"
+            priority
+          />
+          <span className="font-display text-2xl font-bold text-terracota-600">
+            Vivora
+          </span>
         </a>
         <nav className="flex gap-6 text-sm font-medium text-sage-700">
           <a href="/" className="hover:text-terracota-500">Inicio</a>
           <a href="/productos" className="hover:text-terracota-500">Productos</a>
+          <a href="/blog" className="hover:text-terracota-500">Blog</a>
         </nav>
       </div>
     </header>

@@ -16,8 +16,7 @@ export default function HomePage() {
             Pequeños cambios, <span className="text-terracota-500">grandes mejoras</span> en tu casa
           </h1>
           <p className="max-w-2xl text-lg text-sage-600">
-            En Vivora seleccionamos a mano los mejores gadgets de smart home, cocina,
-            limpieza y organización — para que tu hogar funcione mejor, sin complicarte.
+            Hogar inteligente, vida más simple
           </p>
           <Link href="/productos" className="btn-primary">
             Explorar productos
