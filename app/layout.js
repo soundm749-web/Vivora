@@ -5,6 +5,10 @@ export const metadata = {
   title: "Vivora — Gadgets que hacen tu hogar más fácil",
   description:
     "Vivora selecciona los mejores gadgets para el hogar: smart home, cocina, limpieza y organización. Reseñas honestas y recomendaciones cuidadas.",
+  icons: {
+    icon: "/logo.png",
+    apple: "/logo.png",
+  },
 };
 
 export default function RootLayout({ children }) {
