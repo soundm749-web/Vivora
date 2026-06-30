@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState, useEffect } from "react";
+import { Suspense, useMemo, useState, useEffect } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
 import ProductCard from "@/components/ProductCard";
 import products from "@/data/products.json";
@@ -14,6 +14,14 @@ const CATEGORIES = [
 ];
 
 export default function ProductosPage() {
+  return (
+    <Suspense fallback={null}>
+      <ProductosContent />
+    </Suspense>
+  );
+}
+
+function ProductosContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
   const initialCategory = searchParams.get("categoria") || "todas";
