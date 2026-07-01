@@ -279,5 +279,227 @@
     "valoracion_media": 4.5,
     "resenas_cantidad": 84,
     "resenas_resumen": "Enchufe reciente con certificación Matter que facilita la integración con cualquier ecosistema de hogar inteligente incluyendo Apple Home. Los usuarios destacan la facilidad de instalación mediante código QR y la compatibilidad universal. Pocas reseñas aún por ser producto reciente pero muy bien valorado."
+  },
+  {
+    "id": "tapo-c210-camara",
+    "name": "Tapo C210 Cámara Vigilancia WiFi 360° 2K",
+    "marca": "TP-Link Tapo",
+    "category": "smart-home",
+    "price": 39.90,
+    "discountedPrice": 24.99,
+    "affiliate_link": "https://amzn.to/4xSWk7j",
+    "isFeatured": true,
+    "image_url": "https://m.media-amazon.com/images/I/81bWts7WhUL._AC_SL1500_.jpg",
+    "description": "Cámara de vigilancia WiFi interior 360° con resolución 2K (3MP) visión nocturna hasta 9 metros seguimiento automático de movimiento y audio bidireccional. Admite tarjeta microSD hasta 512GB. Compatible con Alexa.",
+    "destacado_editorial": "La cámara de vigilancia más vendida en España. 43.000 reseñas no mienten.",
+    "ideal_para": "Familias mascotas o cualquier persona que quiera vigilar su hogar desde el móvil.",
+    "pros": [
+      "Imagen 2K (3MP) muy nítida día y noche",
+      "Giro 360° y seguimiento automático",
+      "Admite SD hasta 512GB sin suscripción",
+      "Modo privacidad físico — cierra la lente"
+    ],
+    "contras": [
+      "Solo WiFi 2.4GHz",
+      "Seguimiento automático requiere actualizar firmware",
+      "Algunas funciones avanzadas requieren suscripción Tapocare"
+    ],
+    "valoracion_media": 4.7,
+    "resenas_cantidad": 43560,
+    "resenas_resumen": "Una de las cámaras de seguridad más valoradas de Amazon España con más de 43.000 reseñas. Los usuarios destacan la calidad de imagen 2K la facilidad de instalación y el seguimiento automático de movimiento. La visión nocturna y la detección de personas son especialmente elogiadas. La app Tapo es intuitiva y permite controlar la cámara desde cualquier lugar."
+  },
+  {
+    "id": "tapo-c210-2pack",
+    "name": "Tapo C210 Cámara Vigilancia WiFi 360° 2K (Pack 2)",
+    "marca": "TP-Link Tapo",
+    "category": "smart-home",
+    "price": 69.99,
+    "discountedPrice": 44.99,
+    "affiliate_link": "https://amzn.to/4vEmM2W",
+    "isFeatured": false,
+    "image_url": "https://m.media-amazon.com/images/I/51y4bTE2MQL._AC_SL1000_.jpg",
+    "description": "Pack de 2 cámaras Tapo C210 con imagen 2K 360° visión nocturna seguimiento automático y audio bidireccional. La opción más económica para vigilar dos estancias a la vez.",
+    "destacado_editorial": "Dos cámaras 2K por menos de 45€. El kit perfecto para vigilar casa entera.",
+    "ideal_para": "Quienes quieren cubrir varias estancias del hogar sin gastar una fortuna.",
+    "pros": [
+      "Precio por unidad muy competitivo",
+      "Mismas funciones que la unidad individual",
+      "Ideal para cubrir varias habitaciones",
+      "Todas gestionables desde la misma app Tapo"
+    ],
+    "contras": [
+      "Solo WiFi 2.4GHz",
+      "Tarjeta SD no incluida (necesaria para grabar)"
+    ],
+    "valoracion_media": 4.7,
+    "resenas_cantidad": 7636,
+    "resenas_resumen": "Pack muy valorado por quienes quieren cubrir varias estancias. Los usuarios destacan la relación calidad-precio y que ambas cámaras se gestionan desde una sola app. La imagen 2K y el seguimiento automático reciben los mismos elogios que el modelo individual."
+  },
+  {
+    "id": "tapo-c200-2pack",
+    "name": "Tapo C200 Cámara Vigilancia WiFi 360° FHD (Pack 2)",
+    "marca": "TP-Link Tapo",
+    "category": "smart-home",
+    "price": 59.99,
+    "discountedPrice": 51.91,
+    "affiliate_link": "https://amzn.to/4eQyeS9",
+    "isFeatured": false,
+    "image_url": "https://m.media-amazon.com/images/I/71zqd4y1HRL._AC_SL1500_.jpg",
+    "description": "Pack de 2 cámaras de vigilancia WiFi 360° Full HD 1080p con visión nocturna detección de movimiento seguimiento automático y audio bidireccional. La opción más económica del ecosistema Tapo con más de 155.000 reseñas.",
+    "destacado_editorial": "155.000 reseñas. El pack de cámaras más popular de Amazon España.",
+    "ideal_para": "Quienes buscan seguridad fiable y económica para casa sin pagar de más.",
+    "pros": [
+      "155K+ reseñas — el más valorado en volumen",
+      "Precio más bajo que el pack de C210",
+      "Fácil instalación en pared o techo",
+      "Compatible con Alexa y NAS"
+    ],
+    "contras": [
+      "Resolución 1080p en vez de 2K",
+      "Sin modo privacidad físico",
+      "Tarjeta SD no incluida"
+    ],
+    "valoracion_media": 4.6,
+    "resenas_cantidad": 155342,
+    "resenas_resumen": "El pack de cámaras más reseñado de Amazon España. Aunque es 1080p en vez de 2K los usuarios consideran que la imagen es más que suficiente para el uso doméstico. La instalación es muy sencilla y la app funciona perfectamente. Compatible con sistemas NAS para almacenamiento local sin suscripción."
+  },
+  {
+    "id": "beans-view-camara-d210",
+    "name": "Beans View Cámara Interior 360° 1080P con Visión Nocturna Color",
+    "marca": "Beans View",
+    "category": "smart-home",
+    "price": 18.99,
+    "discountedPrice": 16.24,
+    "affiliate_link": "https://amzn.to/4xZB3ZC",
+    "isFeatured": false,
+    "image_url": "https://m.media-amazon.com/images/I/61wb-0D4awL._AC_SL1500_.jpg",
+    "description": "Cámara de vigilancia WiFi interior 360° 1080P con visión nocturna en color (no solo blanco y negro) seguimiento automático de personas y 3 modos nocturnos. La opción más económica del catálogo.",
+    "destacado_editorial": "La cámara más barata que ve en color de noche. Sorprende mucho por su precio.",
+    "ideal_para": "Presupuesto ajustado o una segunda cámara sin gastar mucho.",
+    "pros": [
+      "Visión nocturna en color (no solo IR)",
+      "Precio muy bajo — menos de 17€",
+      "3 modos nocturnos configurables",
+      "Sin suscripción obligatoria con SD"
+    ],
+    "contras": [
+      "Menos reseñas que Tapo — marca menos conocida",
+      "Soporte técnico menos accesible según usuarios",
+      "Algunas dudas iniciales con integración Alexa (ya resuelto)"
+    ],
+    "valoracion_media": 4.4,
+    "resenas_cantidad": 1130,
+    "resenas_resumen": "Cámara que sorprende por su precio y funcionalidades. Destaca especialmente la visión nocturna en color con focos integrados algo poco común en esta gama de precio. Los usuarios valoran la facilidad de instalación y la detección de personas sin suscripción. La integración con Alexa fue mejorada en actualizaciones recientes."
+  },
+  {
+    "id": "tapo-l530e-2pack",
+    "name": "Tapo L530E Bombilla LED Inteligente WiFi RGB E27 (Pack 2)",
+    "marca": "TP-Link Tapo",
+    "category": "smart-home",
+    "price": 24.99,
+    "discountedPrice": 14.99,
+    "affiliate_link": "https://amzn.to/4p0etfF",
+    "isFeatured": false,
+    "image_url": "https://m.media-amazon.com/images/I/71Xf4oVXIOL._AC_SL1500_.jpg",
+    "description": "Pack de 2 bombillas LED inteligentes WiFi con 16 millones de colores regulable del 1% al 100% casquillo E27 y 806 lúmenes. Sin hub necesario. La bombilla inteligente número 1 en ventas de España.",
+    "destacado_editorial": "La bombilla inteligente número 1 en España. 7.50€ por unidad es un regalo.",
+    "ideal_para": "Empezar con iluminación inteligente en casa sin complicaciones ni gasto excesivo.",
+    "pros": [
+      "Número 1 en ventas de bombillas WiFi en España",
+      "16 millones de colores + blanco ajustable 2500-6500K",
+      "Sin hub — conecta directo al WiFi",
+      "Compatible con Alexa Google Home y Matter"
+    ],
+    "contras": [
+      "Solo WiFi 2.4GHz",
+      "En colores RGB ilumina algo menos que en blanco",
+      "No compatible con Apple HomeKit en versiones antiguas"
+    ],
+    "valoracion_media": 4.4,
+    "resenas_cantidad": 11133,
+    "resenas_resumen": "La bombilla inteligente más vendida de España según Amazon. Los usuarios destacan la facilidad de instalación la variedad de colores y la buena integración con Alexa y Google Home. El pack de 2 ofrece un precio por unidad muy competitivo. Algunos señalan que en colores RGB ilumina algo menos que en blanco aunque es suficiente para ambientes y decoración."
+  },
+  {
+    "id": "tapo-bombilla-e27-unidad",
+    "name": "Tapo Bombilla LED Inteligente WiFi RGB E27 (1 unidad)",
+    "marca": "TP-Link Tapo",
+    "category": "smart-home",
+    "price": 17.99,
+    "discountedPrice": 9.99,
+    "affiliate_link": "https://amzn.to/4eDzYzd",
+    "isFeatured": false,
+    "image_url": "https://m.media-amazon.com/images/I/41RnoeW97HL._AC_SL1000_.jpg",
+    "description": "Bombilla LED inteligente WiFi individual con 16 millones de colores casquillo E27 y control por app voz o automáticamente. Sin hub necesario. La opción más económica para probar la iluminación inteligente.",
+    "destacado_editorial": "La bombilla inteligente más barata del catálogo. 9.99€ para probar sin compromiso.",
+    "ideal_para": "Quienes quieren probar una bombilla inteligente sin gastarse mucho.",
+    "pros": [
+      "La opción más económica del catálogo",
+      "26.000+ reseñas — muy contrastada",
+      "Compatible con Alexa y Google Home",
+      "Sin hub necesario"
+    ],
+    "contras": [
+      "Una sola unidad — el pack de 2 sale más a cuenta",
+      "Sin monitor de consumo energético",
+      "No compatible con Apple HomeKit"
+    ],
+    "valoracion_media": 4.5,
+    "resenas_cantidad": 26850,
+    "resenas_resumen": "Con más de 26.000 reseñas es la bombilla inteligente más valorada en volumen de Amazon España. Los usuarios la recomiendan como punto de entrada al hogar inteligente por su bajo precio y facilidad de uso. Control por voz con Alexa y Google Home sin configuraciones complicadas. El pack de 2 es más económico por unidad pero esta opción individual permite probar sin compromiso."
+  },
+  {
+    "id": "tapo-l430p-e14",
+    "name": "Tapo L430P Bombilla Inteligente WiFi RGB E14 (casquillo pequeño)",
+    "marca": "TP-Link Tapo",
+    "category": "smart-home",
+    "price": 13.99,
+    "discountedPrice": 9.90,
+    "affiliate_link": "https://amzn.to/4eSNRbF",
+    "isFeatured": false,
+    "image_url": "https://m.media-amazon.com/images/I/61NeXRQja4L._AC_SL1200_.jpg",
+    "description": "Bombilla inteligente WiFi con casquillo E14 (el pequeño de las lámparas de pie o mesita) 16 millones de colores sincronización con música y monitoreo de consumo energético. Compatible con Alexa Google Home y Samsung SmartThings.",
+    "destacado_editorial": "La única bombilla inteligente con casquillo E14 del catálogo. Perfecta para lámparas de pie.",
+    "ideal_para": "Lámparas de pie mesitas de noche o cualquier luminaria con casquillo E14 pequeño.",
+    "pros": [
+      "Casquillo E14 — para lámparas de pie y mesita",
+      "Sincronización con música (baila al ritmo)",
+      "Monitor de consumo energético incluido",
+      "Compatible con Apple HomeKit via Matter"
+    ],
+    "contras": [
+      "470 lúmenes — menos luz que las E27",
+      "Ideal como complemento no como luz principal"
+    ],
+    "valoracion_media": 4.5,
+    "resenas_cantidad": 3196,
+    "resenas_resumen": "Bombilla perfecta para lámparas con casquillo E14 que no suelen tener opción inteligente. Los usuarios la usan principalmente en mesitas de noche y lámparas de ambiente. La sincronización con música es una función diferenciadora que gusta mucho. Eso sí al ser 470 lúmenes sirve como luz de ambiente no como iluminación principal."
+  },
+  {
+    "id": "govee-plafon-rgbic",
+    "name": "Govee Plafón LED Inteligente RGBIC 24W con Matter",
+    "marca": "Govee",
+    "category": "smart-home",
+    "price": 69.99,
+    "discountedPrice": 69.99,
+    "affiliate_link": "https://amzn.to/4y5u0Pp",
+    "isFeatured": true,
+    "image_url": "https://m.media-amazon.com/images/I/71mqBJCABSL._AC_SL1500_.jpg",
+    "description": "Plafón LED inteligente de techo 24W con tecnología RGBIC y luz principal RGBWW. Incluye 16 millones de colores 70+ escenas iluminación retroiluminada y compatibilidad con Matter Alexa y Google Assistant. Cubre hasta 20m² y se regula del 1% al 100%.",
+    "destacado_editorial": "El plafón inteligente con más wow factor del catálogo. Convierte cualquier habitación.",
+    "ideal_para": "Dormitorios salones o cualquier espacio donde quieras crear ambientes espectaculares.",
+    "pros": [
+      "RGBIC — varios colores simultáneos en retroiluminación",
+      "Compatible con Matter — funciona con cualquier ecosistema",
+      "2400 lúmenes — ilumina hasta 20m²",
+      "70+ escenas preconfiguradas en app Govee"
+    ],
+    "contras": [
+      "Precio más elevado que otras opciones",
+      "Requiere instalación en caja de luz existente",
+      "Solo disponible en 30cm cuadrado (también hay versión redonda)"
+    ],
+    "valoracion_media": 4.7,
+    "resenas_cantidad": 2387,
+    "resenas_resumen": "El plafón inteligente mejor valorado del catálogo. Los usuarios quedan impresionados por la calidad de la iluminación y la variedad de efectos RGBIC que permite varios colores simultáneos. La instalación es sencilla en 5 pasos y la integración con Alexa y Google es inmediata. Destaca especialmente para dormitorios y salones donde quieres crear ambientes distintos según el momento."
   }
 ]
