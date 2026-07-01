@@ -12,21 +12,12 @@
     "description": "Robot aspirador con navegación láser de alta precisión y 5000 Pa de potencia de succión. Aspira, barre, friega y pasa la mopa en una sola pasada cubriendo hasta 160 m² sin interrupciones gracias a su batería de 3200 mAh.",
     "destacado_editorial": "La mejor relación calidad-precio del mercado. Tecnología láser sin concesiones a 119€.",
     "ideal_para": "Personas que quieren automatizar la limpieza diaria sin gastar más de 150€. Ideal para pisos de hasta 100 m².",
-    "pros": [
-      "Navegación láser precisa con mapa interactivo",
-      "4 en 1: aspira, barre, friega y pasa la mopa",
-      "App intuitiva con programación por zonas",
-      "Batería de 3200 mAh para pisos grandes"
-    ],
-    "contras": [
-      "Sin base de autovaciado",
-      "Fregado básico — requiere limpiar la mopa tras cada uso",
-      "Soporte técnico de Cecotec mejorable según reseñas",
-      "WiFi solo 2.4 GHz, no compatible con 5 GHz"
-    ],
+    "pros": ["Navegación láser precisa con mapa interactivo", "4 en 1: aspira, barre, friega y pasa la mopa", "App intuitiva con programación por zonas", "Batería de 3200 mAh para pisos grandes"],
+    "contras": ["Sin base de autovaciado", "Fregado básico — requiere limpiar la mopa tras cada uso", "Soporte técnico de Cecotec mejorable según reseñas", "WiFi solo 2.4 GHz, no compatible con 5 GHz"],
     "valoracion_media": 4.0,
     "resenas_cantidad": 369,
-    "resenas_resumen": "Los usuarios destacan su excelente relación calidad-precio y potencia de succión para el día a día. La app es fácil de usar y el mapeo láser funciona bien en pisos medianos. Como puntos negativos algunos reportan fallos en la navegación en pisos con escaleras y que la función de fregado es básica y requiere mantenimiento frecuente. Ideal para limpiezas diarias superficiales en pisos sin desniveles."
+    "resenas_resumen": "Los usuarios destacan su excelente relación calidad-precio y potencia de succión para el día a día. La app es fácil de usar y el mapeo láser funciona bien en pisos medianos. Como puntos negativos algunos reportan fallos en la navegación en pisos con escaleras y que la función de fregado es básica y requiere mantenimiento frecuente.",
+    "tags": ["robot", "aspirador", "aspiradora", "robotico", "laser", "cecotec", "conga", "automatico", "limpieza", "mapeo", "wifi", "app", "friegasuelos", "mopa"]
   },
   {
     "id": "tapo-rv30-max-plus",
@@ -41,21 +32,12 @@
     "description": "Robot aspirador y friegasuelos con 5300 Pa de succión ultrapotente y base de autovaciado de 3L que dura hasta 2 meses sin vaciar. Navegación dual LiDAR+IMU, compatible con Alexa y Google Home, mapeo por habitaciones personalizable.",
     "destacado_editorial": "Autovaciado real, navegación de precisión y precio imbatible. El robot que te devuelve tiempo.",
     "ideal_para": "Familias con mascotas o personas que quieren olvidarse completamente de barrer durante semanas.",
-    "pros": [
-      "Base de autovaciado 3L — hasta 2 meses sin vaciar",
-      "Navegación LiDAR+IMU ultra precisa con mapa 3D",
-      "Compatible con Alexa y Google Home",
-      "App Tapo intuitiva con zonas prohibidas y horarios"
-    ],
-    "contras": [
-      "Fregado funcional pero no profesional",
-      "Batería de 150 min — puede quedarse corta en casas grandes",
-      "Recambios de bolsas con coste adicional cada 2 meses",
-      "Puede atascarse con cables en el suelo"
-    ],
+    "pros": ["Base de autovaciado 3L — hasta 2 meses sin vaciar", "Navegación LiDAR+IMU ultra precisa con mapa 3D", "Compatible con Alexa y Google Home", "App Tapo intuitiva con zonas prohibidas y horarios"],
+    "contras": ["Fregado funcional pero no profesional", "Batería de 150 min — puede quedarse corta en casas grandes", "Recambios de bolsas con coste adicional cada 2 meses", "Puede atascarse con cables en el suelo"],
     "valoracion_media": 4.1,
     "resenas_cantidad": 1311,
-    "resenas_resumen": "Muy valorado por su potencia de succión, base de autovaciado y facilidad de uso desde el primer día. Especialmente recomendado para hogares con mascotas. El mapeo es rápido y preciso y la app destaca por su intuitividad frente a competidores. Como contras algunos usuarios reportan que el fregado es básico comparado con gamas superiores y que puede atascarse con cables. Un caso reportó avería al mes aunque Amazon gestionó bien la garantía."
+    "resenas_resumen": "Muy valorado por su potencia de succión, base de autovaciado y facilidad de uso desde el primer día. Especialmente recomendado para hogares con mascotas.",
+    "tags": ["robot", "aspirador", "aspiradora", "tapo", "autovaciado", "lidar", "automatico", "limpieza", "mascotas", "alexa", "google", "friegasuelos", "mapeo", "wifi"]
   },
   {
     "id": "cecotec-cecofry-5500-pro",
@@ -70,20 +52,12 @@
     "description": "Freidora de aire de 5.5L con 5000 Pa de tecnología PerfectCook y panel táctil. Cocina con una sola cucharada de aceite y cuenta con 8 modos preconfigurados y termostato de 80 a 200°C.",
     "destacado_editorial": "La freidora de aire más vendida en España. Calidad y precio imbatibles.",
     "ideal_para": "Familias que buscan cocinar más sano sin complicaciones y con buen presupuesto.",
-    "pros": [
-      "5.5L de capacidad para toda la familia",
-      "8 modos preconfigurados",
-      "Acabados en acero inoxidable resistente",
-      "Tecnología PerfectCook de aire envolvente"
-    ],
-    "contras": [
-      "Sin ventana para ver la cocción",
-      "Un caso de incendio reportado en reseñas (uso incorrecto)",
-      "Puede transferir olores entre preparaciones"
-    ],
+    "pros": ["5.5L de capacidad para toda la familia", "8 modos preconfigurados", "Acabados en acero inoxidable resistente", "Tecnología PerfectCook de aire envolvente"],
+    "contras": ["Sin ventana para ver la cocción", "Un caso de incendio reportado en reseñas (uso incorrecto)", "Puede transferir olores entre preparaciones"],
     "valoracion_media": 4.5,
     "resenas_cantidad": 5029,
-    "resenas_resumen": "Una de las freidoras de aire más valoradas en Amazon España con más de 5000 reseñas. Los usuarios destacan su facilidad de uso limpieza sencilla y resultados crujientes. La relación calidad-precio es su punto fuerte. Algunos mencionan transferencia de olores entre platos y que la función de fregado es básica para pisos grandes."
+    "resenas_resumen": "Una de las freidoras de aire más valoradas en Amazon España con más de 5000 reseñas. Los usuarios destacan su facilidad de uso, limpieza sencilla y resultados crujientes.",
+    "tags": ["freidora", "air fryer", "sin aceite", "freidora de aire", "cecotec", "cocina", "saludable", "crujiente", "horno", "patatas", "pollo"]
   },
   {
     "id": "cosori-dual-blaze-twinfry-10l",
@@ -98,20 +72,12 @@
     "description": "Freidora de aire premium de 10L con doble cesta separable y tecnología Dual Blaze que calienta por arriba y por abajo. Cocina dos platos a la vez con función SYNC para que terminen al mismo tiempo. WiFi y app incluidos.",
     "destacado_editorial": "La freidora de familia definitiva. Cocina un pollo entero y unas patatas a la vez.",
     "ideal_para": "Familias numerosas o amantes de la cocina que quieren resultados de restaurante en casa.",
-    "pros": [
-      "10L con divisor — cocina 2 platos a la vez",
-      "Dual Blaze calienta arriba y abajo sin precalentar",
-      "Función SYNC sincroniza tiempos de cocción",
-      "WiFi y 70 recetas en app"
-    ],
-    "contras": [
-      "Tamaño grande — ocupa bastante encimera",
-      "Precio elevado",
-      "App con pocas recetas integradas según usuarios"
-    ],
+    "pros": ["10L con divisor — cocina 2 platos a la vez", "Dual Blaze calienta arriba y abajo sin precalentar", "Función SYNC sincroniza tiempos de cocción", "WiFi y 70 recetas en app"],
+    "contras": ["Tamaño grande — ocupa bastante encimera", "Precio elevado", "App con pocas recetas integradas según usuarios"],
     "valoracion_media": 4.7,
     "resenas_cantidad": 4178,
-    "resenas_resumen": "Muy bien valorada por familias y amantes de la cocina. Destacan la gran capacidad la doble resistencia y la función de doble cesta sincronizada. Los resultados de cocción son superiores a freidoras con una sola resistencia. Algunos mencionan que la app podría mejorar y que el tamaño es considerable."
+    "resenas_resumen": "Muy bien valorada por familias y amantes de la cocina. Destacan la gran capacidad, la doble resistencia y la función de doble cesta sincronizada.",
+    "tags": ["freidora", "air fryer", "sin aceite", "freidora de aire", "cosori", "cocina", "doble cesta", "familia", "wifi", "saludable", "grande", "10 litros"]
   },
   {
     "id": "cosori-freidora-6-2l",
@@ -126,20 +92,12 @@
     "description": "La freidora de aire número 1 en ventas de España con más de 70.000 reseñas. 6.2L de capacidad con ventana iluminada para ver la cocción sin abrir. 13 modos automáticos y tecnología Rapid Air.",
     "destacado_editorial": "La freidora más vendida en España con 70K reseñas. Un clásico que no defrauda.",
     "ideal_para": "Hogares de 3 a 5 personas que buscan la freidora de aire más contrastada del mercado.",
-    "pros": [
-      "70.000+ reseñas — la más valorada de España",
-      "Ventana iluminada para ver la cocción",
-      "13 modos automáticos",
-      "Interior de acero inoxidable sin PFAS"
-    ],
-    "contras": [
-      "Sin doble resistencia — hay que dar la vuelta a algunos alimentos",
-      "No tiene WiFi en este modelo",
-      "Precio algo elevado para su gama"
-    ],
+    "pros": ["70.000+ reseñas — la más valorada de España", "Ventana iluminada para ver la cocción", "13 modos automáticos", "Interior de acero inoxidable sin PFAS"],
+    "contras": ["Sin doble resistencia — hay que dar la vuelta a algunos alimentos", "No tiene WiFi en este modelo", "Precio algo elevado para su gama"],
     "valoracion_media": 4.7,
     "resenas_cantidad": 70356,
-    "resenas_resumen": "La freidora de aire más reseñada de Amazon España con 70K valoraciones. Los usuarios coinciden en que la comida sale sabrosa y crujiente la limpieza es fácil y es muy intuitiva. Ideal para uso diario. Algunos señalan que no tiene doble resistencia por lo que hay que dar la vuelta a ciertos alimentos."
+    "resenas_resumen": "La freidora de aire más reseñada de Amazon España con 70K valoraciones. Los usuarios coinciden en que la comida sale sabrosa y crujiente.",
+    "tags": ["freidora", "air fryer", "sin aceite", "freidora de aire", "cosori", "cocina", "ventana", "saludable", "crujiente", "patatas", "pollo", "sin pfas"]
   },
   {
     "id": "ninja-crispi-3-8l",
@@ -154,20 +112,12 @@
     "description": "Freidora de aire portátil con recipientes de vidrio resistentes al calor aptos para lavavajillas. Incluye 2 tamaños (1.4L y 3.8L) para porciones individuales o familiares. Sin PFAS en la superficie de cocción.",
     "destacado_editorial": "La freidora más innovadora: portátil con cristal. Llévala donde quieras.",
     "ideal_para": "Personas que viven solas o parejas con cocinas pequeñas que valoran el diseño y la comodidad.",
-    "pros": [
-      "Recipientes de vidrio — libre de PFAS",
-      "2 tamaños incluidos (1.4L y 3.8L)",
-      "Portátil — úsala en cualquier enchufe",
-      "Apta para lavavajillas al 100%"
-    ],
-    "contras": [
-      "Sin selector de temperatura manual",
-      "Capacidad menor que otras en su precio",
-      "Más lenta que freidoras de cesta tradicional"
-    ],
+    "pros": ["Recipientes de vidrio — libre de PFAS", "2 tamaños incluidos (1.4L y 3.8L)", "Portátil — úsala en cualquier enchufe", "Apta para lavavajillas al 100%"],
+    "contras": ["Sin selector de temperatura manual", "Capacidad menor que otras en su precio", "Más lenta que freidoras de cesta tradicional"],
     "valoracion_media": 4.5,
     "resenas_cantidad": 541,
-    "resenas_resumen": "Muy valorada por su diseño portátil y los recipientes de cristal que facilitan la limpieza y eliminan preocupaciones sobre materiales. Los usuarios destacan su practicidad para cocinas pequeñas y parejas. Algunos señalan que es algo más lenta y que no permite ajustar temperatura manualmente."
+    "resenas_resumen": "Muy valorada por su diseño portátil y los recipientes de cristal que facilitan la limpieza y eliminan preocupaciones sobre materiales.",
+    "tags": ["freidora", "air fryer", "sin aceite", "freidora de aire", "ninja", "cocina", "portatil", "cristal", "vidrio", "sin pfas", "pequeña", "pareja"]
   },
   {
     "id": "tapo-p100-enchufe",
@@ -182,20 +132,12 @@
     "description": "Mini enchufe inteligente WiFi compacto que no bloquea enchufes adyacentes. Control remoto desde cualquier lugar con la app Tapo. Compatible con Alexa y Google Home. Sin hub necesario.",
     "destacado_editorial": "El enchufe inteligente más vendido de España. Sencillo fiable y muy barato.",
     "ideal_para": "Quienes quieren iniciarse en el hogar inteligente sin gastar más de 10€ por enchufe.",
-    "pros": [
-      "Muy compacto — no bloquea enchufes vecinos",
-      "Sin hub necesario — conecta directo al WiFi",
-      "Compatible con Alexa y Google Home",
-      "App Tapo intuitiva con programación y temporizador"
-    ],
-    "contras": [
-      "Sin monitor de consumo energético",
-      "Solo WiFi 2.4GHz — no compatible con 5GHz",
-      "Solo compatible con app Tapo"
-    ],
+    "pros": ["Muy compacto — no bloquea enchufes vecinos", "Sin hub necesario — conecta directo al WiFi", "Compatible con Alexa y Google Home", "App Tapo intuitiva con programación y temporizador"],
+    "contras": ["Sin monitor de consumo energético", "Solo WiFi 2.4GHz — no compatible con 5GHz", "Solo compatible con app Tapo"],
     "valoracion_media": 4.6,
     "resenas_cantidad": 41480,
-    "resenas_resumen": "Con más de 41.000 reseñas es uno de los enchufes inteligentes más populares de Amazon España. Los usuarios lo destacan por su facilidad de instalación fiabilidad y buena integración con Alexa. El único punto negativo recurrente es que no incluye monitor de consumo energético a diferencia del modelo P110."
+    "resenas_resumen": "Con más de 41.000 reseñas es uno de los enchufes inteligentes más populares de Amazon España.",
+    "tags": ["enchufe", "enchufe inteligente", "smart plug", "wifi", "alexa", "google", "tapo", "domotica", "hogar inteligente", "smart home", "temporizador", "programable"]
   },
   {
     "id": "tapo-p110-4pack",
@@ -210,20 +152,12 @@
     "description": "Pack de 4 enchufes inteligentes WiFi con monitoreo de consumo energético en tiempo real. Programa horarios ve cuánto gasta cada aparato y controla todo desde la app Tapo o con voz. El número 1 más vendido en enchufes inteligentes.",
     "destacado_editorial": "El número 1 en ventas. Con monitor de energía para saber lo que gasta cada aparato.",
     "ideal_para": "Hogares que quieren automatizar varios dispositivos a la vez y controlar el gasto eléctrico.",
-    "pros": [
-      "Monitor de consumo en tiempo real",
-      "Pack de 4 — precio por unidad muy competitivo",
-      "Horarios que funcionan sin internet",
-      "Compatible con Alexa y Google Home"
-    ],
-    "contras": [
-      "Solo WiFi 2.4GHz",
-      "Solo compatible con app Tapo",
-      "Alguna desconexión puntual reportada"
-    ],
+    "pros": ["Monitor de consumo en tiempo real", "Pack de 4 — precio por unidad muy competitivo", "Horarios que funcionan sin internet", "Compatible con Alexa y Google Home"],
+    "contras": ["Solo WiFi 2.4GHz", "Solo compatible con app Tapo", "Alguna desconexión puntual reportada"],
     "valoracion_media": 4.7,
     "resenas_cantidad": 18903,
-    "resenas_resumen": "El enchufe inteligente número 1 en ventas de Amazon España. Muy valorado por su monitor de consumo energético que permite saber en tiempo real lo que gasta cada electrodoméstico. La app es intuitiva y la instalación rápida. Los horarios siguen funcionando aunque se corte internet."
+    "resenas_resumen": "El enchufe inteligente número 1 en ventas de Amazon España. Muy valorado por su monitor de consumo energético.",
+    "tags": ["enchufe", "enchufe inteligente", "smart plug", "wifi", "alexa", "google", "tapo", "domotica", "consumo", "energia", "monitor", "pack 4", "hogar inteligente"]
   },
   {
     "id": "tapo-p110-2pack",
@@ -238,19 +172,12 @@
     "description": "Pack de 2 enchufes inteligentes WiFi con monitoreo de consumo energético. Controla y programa tus electrodomésticos desde cualquier lugar con la app Tapo. Compatible con Alexa y Google Home.",
     "destacado_editorial": "Monitor de energía + control total desde el móvil. La opción inteligente para empezar.",
     "ideal_para": "Quienes quieren controlar 2 dispositivos del hogar con monitoreo de consumo incluido.",
-    "pros": [
-      "Monitor de consumo energético en tiempo real",
-      "Pack de 2 a precio muy competitivo",
-      "Horarios que funcionan sin internet",
-      "Compatible con Alexa y Google Home"
-    ],
-    "contras": [
-      "Solo WiFi 2.4GHz",
-      "Solo compatible con app Tapo"
-    ],
+    "pros": ["Monitor de consumo energético en tiempo real", "Pack de 2 a precio muy competitivo", "Horarios que funcionan sin internet", "Compatible con Alexa y Google Home"],
+    "contras": ["Solo WiFi 2.4GHz", "Solo compatible con app Tapo"],
     "valoracion_media": 4.7,
     "resenas_cantidad": 18903,
-    "resenas_resumen": "Mismo modelo que el pack de 4 pero en versión de 2 unidades para quienes no necesitan tantos enchufes. Excelente relación calidad-precio con monitor de energía incluido. Muy fácil de instalar y fiable según los usuarios."
+    "resenas_resumen": "Mismo modelo que el pack de 4 pero en versión de 2 unidades para quienes no necesitan tantos enchufes.",
+    "tags": ["enchufe", "enchufe inteligente", "smart plug", "wifi", "alexa", "google", "tapo", "domotica", "consumo", "energia", "monitor", "pack 2", "hogar inteligente"]
   },
   {
     "id": "wiz-enchufe-matter",
@@ -265,20 +192,12 @@
     "description": "Enchufe inteligente WiFi con certificación Matter — el estándar universal del hogar inteligente. Compatible con Alexa Google Home y Apple Home sin configuración complicada. De Signify la empresa detrás de Philips Hue.",
     "destacado_editorial": "El único enchufe con Matter que funciona con Alexa Google y Apple Home a la vez.",
     "ideal_para": "Usuarios de Apple Home o ecosistemas mixtos que quieren un enchufe compatible con todo.",
-    "pros": [
-      "Certificación Matter — compatible con Alexa Google y Apple Home",
-      "De Signify — empresa de Philips Hue",
-      "Instalación por QR — sin configurar redes",
-      "Precio muy competitivo"
-    ],
-    "contras": [
-      "Sin monitor de consumo energético",
-      "Menos reseñas que Tapo — marca más nueva en este segmento",
-      "Un caso de avería a los 3 días reportado"
-    ],
+    "pros": ["Certificación Matter — compatible con Alexa Google y Apple Home", "De Signify — empresa de Philips Hue", "Instalación por QR — sin configurar redes", "Precio muy competitivo"],
+    "contras": ["Sin monitor de consumo energético", "Menos reseñas que Tapo — marca más nueva en este segmento", "Un caso de avería a los 3 días reportado"],
     "valoracion_media": 4.5,
     "resenas_cantidad": 84,
-    "resenas_resumen": "Enchufe reciente con certificación Matter que facilita la integración con cualquier ecosistema de hogar inteligente incluyendo Apple Home. Los usuarios destacan la facilidad de instalación mediante código QR y la compatibilidad universal. Pocas reseñas aún por ser producto reciente pero muy bien valorado."
+    "resenas_resumen": "Enchufe reciente con certificación Matter que facilita la integración con cualquier ecosistema de hogar inteligente incluyendo Apple Home.",
+    "tags": ["enchufe", "enchufe inteligente", "smart plug", "wifi", "alexa", "google", "apple home", "homekit", "matter", "philips", "wiz", "domotica", "universal"]
   },
   {
     "id": "tapo-c210-camara",
@@ -293,20 +212,12 @@
     "description": "Cámara de vigilancia WiFi interior 360° con resolución 2K (3MP) visión nocturna hasta 9 metros seguimiento automático de movimiento y audio bidireccional. Admite tarjeta microSD hasta 512GB. Compatible con Alexa.",
     "destacado_editorial": "La cámara de vigilancia más vendida en España. 43.000 reseñas no mienten.",
     "ideal_para": "Familias mascotas o cualquier persona que quiera vigilar su hogar desde el móvil.",
-    "pros": [
-      "Imagen 2K (3MP) muy nítida día y noche",
-      "Giro 360° y seguimiento automático",
-      "Admite SD hasta 512GB sin suscripción",
-      "Modo privacidad físico — cierra la lente"
-    ],
-    "contras": [
-      "Solo WiFi 2.4GHz",
-      "Seguimiento automático requiere actualizar firmware",
-      "Algunas funciones avanzadas requieren suscripción Tapocare"
-    ],
+    "pros": ["Imagen 2K (3MP) muy nítida día y noche", "Giro 360° y seguimiento automático", "Admite SD hasta 512GB sin suscripción", "Modo privacidad físico — cierra la lente"],
+    "contras": ["Solo WiFi 2.4GHz", "Seguimiento automático requiere actualizar firmware", "Algunas funciones avanzadas requieren suscripción Tapocare"],
     "valoracion_media": 4.7,
     "resenas_cantidad": 43560,
-    "resenas_resumen": "Una de las cámaras de seguridad más valoradas de Amazon España con más de 43.000 reseñas. Los usuarios destacan la calidad de imagen 2K la facilidad de instalación y el seguimiento automático de movimiento. La visión nocturna y la detección de personas son especialmente elogiadas. La app Tapo es intuitiva y permite controlar la cámara desde cualquier lugar."
+    "resenas_resumen": "Una de las cámaras de seguridad más valoradas de Amazon España con más de 43.000 reseñas.",
+    "tags": ["camara", "camara vigilancia", "camara seguridad", "wifi", "tapo", "360", "interior", "2k", "vision nocturna", "seguimiento", "alexa", "smart home", "mascotas"]
   },
   {
     "id": "tapo-c210-2pack",
@@ -321,19 +232,12 @@
     "description": "Pack de 2 cámaras Tapo C210 con imagen 2K 360° visión nocturna seguimiento automático y audio bidireccional. La opción más económica para vigilar dos estancias a la vez.",
     "destacado_editorial": "Dos cámaras 2K por menos de 45€. El kit perfecto para vigilar casa entera.",
     "ideal_para": "Quienes quieren cubrir varias estancias del hogar sin gastar una fortuna.",
-    "pros": [
-      "Precio por unidad muy competitivo",
-      "Mismas funciones que la unidad individual",
-      "Ideal para cubrir varias habitaciones",
-      "Todas gestionables desde la misma app Tapo"
-    ],
-    "contras": [
-      "Solo WiFi 2.4GHz",
-      "Tarjeta SD no incluida (necesaria para grabar)"
-    ],
+    "pros": ["Precio por unidad muy competitivo", "Mismas funciones que la unidad individual", "Ideal para cubrir varias habitaciones", "Todas gestionables desde la misma app Tapo"],
+    "contras": ["Solo WiFi 2.4GHz", "Tarjeta SD no incluida (necesaria para grabar)"],
     "valoracion_media": 4.7,
     "resenas_cantidad": 7636,
-    "resenas_resumen": "Pack muy valorado por quienes quieren cubrir varias estancias. Los usuarios destacan la relación calidad-precio y que ambas cámaras se gestionan desde una sola app. La imagen 2K y el seguimiento automático reciben los mismos elogios que el modelo individual."
+    "resenas_resumen": "Pack muy valorado por quienes quieren cubrir varias estancias. Los usuarios destacan la relación calidad-precio y que ambas cámaras se gestionan desde una sola app.",
+    "tags": ["camara", "camara vigilancia", "camara seguridad", "wifi", "tapo", "360", "interior", "2k", "vision nocturna", "pack 2", "kit", "smart home"]
   },
   {
     "id": "tapo-c200-2pack",
@@ -348,20 +252,12 @@
     "description": "Pack de 2 cámaras de vigilancia WiFi 360° Full HD 1080p con visión nocturna detección de movimiento seguimiento automático y audio bidireccional. La opción más económica del ecosistema Tapo con más de 155.000 reseñas.",
     "destacado_editorial": "155.000 reseñas. El pack de cámaras más popular de Amazon España.",
     "ideal_para": "Quienes buscan seguridad fiable y económica para casa sin pagar de más.",
-    "pros": [
-      "155K+ reseñas — el más valorado en volumen",
-      "Precio más bajo que el pack de C210",
-      "Fácil instalación en pared o techo",
-      "Compatible con Alexa y NAS"
-    ],
-    "contras": [
-      "Resolución 1080p en vez de 2K",
-      "Sin modo privacidad físico",
-      "Tarjeta SD no incluida"
-    ],
+    "pros": ["155K+ reseñas — el más valorado en volumen", "Precio más bajo que el pack de C210", "Fácil instalación en pared o techo", "Compatible con Alexa y NAS"],
+    "contras": ["Resolución 1080p en vez de 2K", "Sin modo privacidad físico", "Tarjeta SD no incluida"],
     "valoracion_media": 4.6,
     "resenas_cantidad": 155342,
-    "resenas_resumen": "El pack de cámaras más reseñado de Amazon España. Aunque es 1080p en vez de 2K los usuarios consideran que la imagen es más que suficiente para el uso doméstico. La instalación es muy sencilla y la app funciona perfectamente. Compatible con sistemas NAS para almacenamiento local sin suscripción."
+    "resenas_resumen": "El pack de cámaras más reseñado de Amazon España. Aunque es 1080p en vez de 2K los usuarios consideran que la imagen es más que suficiente para el uso doméstico.",
+    "tags": ["camara", "camara vigilancia", "camara seguridad", "wifi", "tapo", "360", "interior", "1080p", "full hd", "vision nocturna", "pack 2", "smart home", "barata"]
   },
   {
     "id": "beans-view-camara-d210",
@@ -376,20 +272,12 @@
     "description": "Cámara de vigilancia WiFi interior 360° 1080P con visión nocturna en color (no solo blanco y negro) seguimiento automático de personas y 3 modos nocturnos. La opción más económica del catálogo.",
     "destacado_editorial": "La cámara más barata que ve en color de noche. Sorprende mucho por su precio.",
     "ideal_para": "Presupuesto ajustado o una segunda cámara sin gastar mucho.",
-    "pros": [
-      "Visión nocturna en color (no solo IR)",
-      "Precio muy bajo — menos de 17€",
-      "3 modos nocturnos configurables",
-      "Sin suscripción obligatoria con SD"
-    ],
-    "contras": [
-      "Menos reseñas que Tapo — marca menos conocida",
-      "Soporte técnico menos accesible según usuarios",
-      "Algunas dudas iniciales con integración Alexa (ya resuelto)"
-    ],
+    "pros": ["Visión nocturna en color (no solo IR)", "Precio muy bajo — menos de 17€", "3 modos nocturnos configurables", "Sin suscripción obligatoria con SD"],
+    "contras": ["Menos reseñas que Tapo — marca menos conocida", "Soporte técnico menos accesible según usuarios", "Algunas dudas iniciales con integración Alexa (ya resuelto)"],
     "valoracion_media": 4.4,
     "resenas_cantidad": 1130,
-    "resenas_resumen": "Cámara que sorprende por su precio y funcionalidades. Destaca especialmente la visión nocturna en color con focos integrados algo poco común en esta gama de precio. Los usuarios valoran la facilidad de instalación y la detección de personas sin suscripción. La integración con Alexa fue mejorada en actualizaciones recientes."
+    "resenas_resumen": "Cámara que sorprende por su precio y funcionalidades. Destaca especialmente la visión nocturna en color con focos integrados algo poco común en esta gama de precio.",
+    "tags": ["camara", "camara vigilancia", "camara seguridad", "wifi", "360", "interior", "1080p", "vision nocturna", "color", "barata", "economica"]
   },
   {
     "id": "tapo-l530e-2pack",
@@ -404,20 +292,12 @@
     "description": "Pack de 2 bombillas LED inteligentes WiFi con 16 millones de colores regulable del 1% al 100% casquillo E27 y 806 lúmenes. Sin hub necesario. La bombilla inteligente número 1 en ventas de España.",
     "destacado_editorial": "La bombilla inteligente número 1 en España. 7.50€ por unidad es un regalo.",
     "ideal_para": "Empezar con iluminación inteligente en casa sin complicaciones ni gasto excesivo.",
-    "pros": [
-      "Número 1 en ventas de bombillas WiFi en España",
-      "16 millones de colores + blanco ajustable 2500-6500K",
-      "Sin hub — conecta directo al WiFi",
-      "Compatible con Alexa Google Home y Matter"
-    ],
-    "contras": [
-      "Solo WiFi 2.4GHz",
-      "En colores RGB ilumina algo menos que en blanco",
-      "No compatible con Apple HomeKit en versiones antiguas"
-    ],
+    "pros": ["Número 1 en ventas de bombillas WiFi en España", "16 millones de colores + blanco ajustable 2500-6500K", "Sin hub — conecta directo al WiFi", "Compatible con Alexa Google Home y Matter"],
+    "contras": ["Solo WiFi 2.4GHz", "En colores RGB ilumina algo menos que en blanco", "No compatible con Apple HomeKit en versiones antiguas"],
     "valoracion_media": 4.4,
     "resenas_cantidad": 11133,
-    "resenas_resumen": "La bombilla inteligente más vendida de España según Amazon. Los usuarios destacan la facilidad de instalación la variedad de colores y la buena integración con Alexa y Google Home. El pack de 2 ofrece un precio por unidad muy competitivo. Algunos señalan que en colores RGB ilumina algo menos que en blanco aunque es suficiente para ambientes y decoración."
+    "resenas_resumen": "La bombilla inteligente más vendida de España según Amazon. Los usuarios destacan la facilidad de instalación y la variedad de colores.",
+    "tags": ["bombilla", "led", "rgb", "inteligente", "wifi", "colores", "alexa", "google", "tapo", "luz", "e27", "smart home", "iluminacion", "pack 2", "sin hub"]
   },
   {
     "id": "tapo-bombilla-e27-unidad",
@@ -432,20 +312,12 @@
     "description": "Bombilla LED inteligente WiFi individual con 16 millones de colores casquillo E27 y control por app voz o automáticamente. Sin hub necesario. La opción más económica para probar la iluminación inteligente.",
     "destacado_editorial": "La bombilla inteligente más barata del catálogo. 9.99€ para probar sin compromiso.",
     "ideal_para": "Quienes quieren probar una bombilla inteligente sin gastarse mucho.",
-    "pros": [
-      "La opción más económica del catálogo",
-      "26.000+ reseñas — muy contrastada",
-      "Compatible con Alexa y Google Home",
-      "Sin hub necesario"
-    ],
-    "contras": [
-      "Una sola unidad — el pack de 2 sale más a cuenta",
-      "Sin monitor de consumo energético",
-      "No compatible con Apple HomeKit"
-    ],
+    "pros": ["La opción más económica del catálogo", "26.000+ reseñas — muy contrastada", "Compatible con Alexa y Google Home", "Sin hub necesario"],
+    "contras": ["Una sola unidad — el pack de 2 sale más a cuenta", "Sin monitor de consumo energético", "No compatible con Apple HomeKit"],
     "valoracion_media": 4.5,
     "resenas_cantidad": 26850,
-    "resenas_resumen": "Con más de 26.000 reseñas es la bombilla inteligente más valorada en volumen de Amazon España. Los usuarios la recomiendan como punto de entrada al hogar inteligente por su bajo precio y facilidad de uso. Control por voz con Alexa y Google Home sin configuraciones complicadas. El pack de 2 es más económico por unidad pero esta opción individual permite probar sin compromiso."
+    "resenas_resumen": "Con más de 26.000 reseñas es la bombilla inteligente más valorada en volumen de Amazon España.",
+    "tags": ["bombilla", "led", "rgb", "inteligente", "wifi", "colores", "alexa", "google", "tapo", "luz", "e27", "smart home", "iluminacion", "barata", "sin hub"]
   },
   {
     "id": "tapo-l430p-e14",
@@ -460,19 +332,12 @@
     "description": "Bombilla inteligente WiFi con casquillo E14 (el pequeño de las lámparas de pie o mesita) 16 millones de colores sincronización con música y monitoreo de consumo energético. Compatible con Alexa Google Home y Samsung SmartThings.",
     "destacado_editorial": "La única bombilla inteligente con casquillo E14 del catálogo. Perfecta para lámparas de pie.",
     "ideal_para": "Lámparas de pie mesitas de noche o cualquier luminaria con casquillo E14 pequeño.",
-    "pros": [
-      "Casquillo E14 — para lámparas de pie y mesita",
-      "Sincronización con música (baila al ritmo)",
-      "Monitor de consumo energético incluido",
-      "Compatible con Apple HomeKit via Matter"
-    ],
-    "contras": [
-      "470 lúmenes — menos luz que las E27",
-      "Ideal como complemento no como luz principal"
-    ],
+    "pros": ["Casquillo E14 — para lámparas de pie y mesita", "Sincronización con música (baila al ritmo)", "Monitor de consumo energético incluido", "Compatible con Apple HomeKit via Matter"],
+    "contras": ["470 lúmenes — menos luz que las E27", "Ideal como complemento no como luz principal"],
     "valoracion_media": 4.5,
     "resenas_cantidad": 3196,
-    "resenas_resumen": "Bombilla perfecta para lámparas con casquillo E14 que no suelen tener opción inteligente. Los usuarios la usan principalmente en mesitas de noche y lámparas de ambiente. La sincronización con música es una función diferenciadora que gusta mucho. Eso sí al ser 470 lúmenes sirve como luz de ambiente no como iluminación principal."
+    "resenas_resumen": "Bombilla perfecta para lámparas con casquillo E14 que no suelen tener opción inteligente.",
+    "tags": ["bombilla", "led", "rgb", "inteligente", "wifi", "colores", "alexa", "google", "apple home", "tapo", "luz", "e14", "casquillo pequeño", "lampara de pie", "mesita", "musica"]
   },
   {
     "id": "govee-plafon-rgbic",
@@ -487,19 +352,171 @@
     "description": "Plafón LED inteligente de techo 24W con tecnología RGBIC y luz principal RGBWW. Incluye 16 millones de colores 70+ escenas iluminación retroiluminada y compatibilidad con Matter Alexa y Google Assistant. Cubre hasta 20m² y se regula del 1% al 100%.",
     "destacado_editorial": "El plafón inteligente con más wow factor del catálogo. Convierte cualquier habitación.",
     "ideal_para": "Dormitorios salones o cualquier espacio donde quieras crear ambientes espectaculares.",
-    "pros": [
-      "RGBIC — varios colores simultáneos en retroiluminación",
-      "Compatible con Matter — funciona con cualquier ecosistema",
-      "2400 lúmenes — ilumina hasta 20m²",
-      "70+ escenas preconfiguradas en app Govee"
-    ],
-    "contras": [
-      "Precio más elevado que otras opciones",
-      "Requiere instalación en caja de luz existente",
-      "Solo disponible en 30cm cuadrado (también hay versión redonda)"
-    ],
+    "pros": ["RGBIC — varios colores simultáneos en retroiluminación", "Compatible con Matter — funciona con cualquier ecosistema", "2400 lúmenes — ilumina hasta 20m²", "70+ escenas preconfiguradas en app Govee"],
+    "contras": ["Precio más elevado que otras opciones", "Requiere instalación en caja de luz existente", "Solo disponible en 30cm cuadrado (también hay versión redonda)"],
     "valoracion_media": 4.7,
     "resenas_cantidad": 2387,
-    "resenas_resumen": "El plafón inteligente mejor valorado del catálogo. Los usuarios quedan impresionados por la calidad de la iluminación y la variedad de efectos RGBIC que permite varios colores simultáneos. La instalación es sencilla en 5 pasos y la integración con Alexa y Google es inmediata. Destaca especialmente para dormitorios y salones donde quieres crear ambientes distintos según el momento."
+    "resenas_resumen": "El plafón inteligente mejor valorado del catálogo. Los usuarios quedan impresionados por la calidad de la iluminación y la variedad de efectos RGBIC.",
+    "tags": ["plafonera", "plafon", "led", "rgb", "rgbic", "inteligente", "wifi", "colores", "alexa", "google", "govee", "techo", "luz", "matter", "smart home", "ambiente", "dormitorio", "salon"]
+  },
+  {
+    "id": "cecotec-conga-immortal-22v-hand",
+    "name": "Cecotec Conga Immortal ExtremeSuction 22.2V Aspiradora de Mano",
+    "marca": "Cecotec",
+    "category": "aspiradoras",
+    "price": 49.90,
+    "discountedPrice": 44.90,
+    "affiliate_link": "https://amzn.to/4fdJadK",
+    "isFeatured": false,
+    "image_url": "https://m.media-amazon.com/images/I/61gOFFelIiL._AC_SL1000_.jpg",
+    "description": "Aspiradora de mano inalámbrica para sólidos y líquidos (Wet&Dry) con tecnología ciclónica y batería de 22.2V. Depósito de 500ml autonomía de 25 minutos y base de carga incluida. Ideal para el coche y limpiezas puntuales en casa.",
+    "destacado_editorial": "La aspiradora de mano más vendida de España. Perfecta para el coche y las migas del día a día.",
+    "ideal_para": "Quienes necesitan una aspiradora compacta para el coche rincones y suciedad puntual sin cables.",
+    "pros": ["Aspira sólidos y líquidos (Wet&Dry)", "22.2V — la más potente de la gama de mano Conga", "Depósito 500ml de fácil vaciado", "Base de carga incluida"],
+    "contras": ["25 minutos de autonomía — no para limpiar toda la casa", "Algunos usuarios reportan dificultad para colocar en la base de carga", "Filtros de recambio pueden ser difíciles de encontrar"],
+    "valoracion_media": 4.3,
+    "resenas_cantidad": 4667,
+    "resenas_resumen": "Con más de 4.600 reseñas es la aspiradora de mano más popular de Amazon España. Los usuarios la valoran especialmente para el coche y para limpiezas rápidas en casa.",
+    "tags": ["aspiradora", "aspirador", "mano", "portatil", "coche", "cecotec", "conga", "inalambrica", "sin cable", "wet dry", "liquidos", "compacta", "ciclonica"]
+  },
+  {
+    "id": "einhell-aspiradora-manual-18v",
+    "name": "Einhell TE-VC 18 Li Aspiradora Manual Sin Cable Power X-Change",
+    "marca": "Einhell",
+    "category": "aspiradoras",
+    "price": 45.95,
+    "discountedPrice": 43.99,
+    "affiliate_link": "https://amzn.to/44GoLrG",
+    "isFeatured": false,
+    "image_url": "https://m.media-amazon.com/images/I/61iVKgMNKnL._AC_SL1500_.jpg",
+    "description": "Aspiradora manual sin cable de 18V compatible con el sistema Power X-Change de Einhell. Depósito de 540ml tubo de extensión de 46.5cm y 3 boquillas incluidas. Se puede usar como aspiradora de suelo en posición vertical. Viene sin batería ni cargador.",
+    "destacado_editorial": "La aspiradora modular: usa la misma batería que tus herramientas Einhell. Versátil y bien equipada.",
+    "ideal_para": "Usuarios del ecosistema Einhell o quienes buscan una aspiradora manual versátil y bien equipada.",
+    "pros": ["Sistema Power X-Change — comparte batería con otras herramientas Einhell", "Tubo extensible — aspira en posición vertical como escoba", "3 boquillas incluidas para distintas superficies", "Filtro lavable bajo el grifo"],
+    "contras": ["No incluye batería ni cargador — hay que comprarlos aparte", "Algunos usuarios señalan potencia mejorable respecto a otras opciones", "Puede resultar pesada con baterías de alta capacidad"],
+    "valoracion_media": 4.3,
+    "resenas_cantidad": 9734,
+    "resenas_resumen": "Muy valorada por usuarios del ecosistema Einhell que ya tienen baterías compatibles. El punto diferenciador es el sistema Power X-Change.",
+    "tags": ["aspiradora", "aspirador", "mano", "portatil", "einhell", "inalambrica", "sin cable", "modular", "bateria", "power x-change", "escoba", "compacta"]
+  },
+  {
+    "id": "xiaomi-g20-lite-aspiradora",
+    "name": "Xiaomi G20 Lite Aspiradora Inalámbrica Sin Cable 18kPa",
+    "marca": "Xiaomi",
+    "category": "aspiradoras",
+    "price": 99.99,
+    "discountedPrice": 74.00,
+    "affiliate_link": "https://amzn.to/4gg86lU",
+    "isFeatured": true,
+    "image_url": "https://m.media-amazon.com/images/I/51qTojiQ1pL._AC_SL1500_.jpg",
+    "description": "Aspiradora inalámbrica escoba con 18kPa de succión luz LED frontal para detectar polvo vaciado con un botón y filtración de 5 etapas. Hasta 45 minutos de autonomía con batería de 2200mAh. Incluye cabezal 2 en 1 y soporte de pared.",
+    "destacado_editorial": "La aspiradora inalámbrica Xiaomi al mejor precio. Ligera con luz LED y hasta 45 minutos de autonomía.",
+    "ideal_para": "Hogares de tamaño medio que quieren una aspiradora inalámbrica fiable sin pagar de más.",
+    "pros": ["Luz LED frontal para detectar el polvo", "Vaciado higiénico con un solo botón", "Hasta 45 minutos de autonomía", "Filtración de 5 etapas — retiene 99.9% de partículas"],
+    "contras": ["Autonomía reducida a máxima potencia", "Algunos usuarios lo encuentran pesado para uso prolongado en mano", "La batería se nota en el mango"],
+    "valoracion_media": 4.2,
+    "resenas_cantidad": 2239,
+    "resenas_resumen": "Bien valorada por su relación calidad-precio en el segmento de aspiradoras inalámbricas de gama media. Los usuarios destacan la luz LED para detectar polvo y el vaciado fácil.",
+    "tags": ["aspiradora", "aspirador", "escoba", "inalambrica", "sin cable", "xiaomi", "mi", "led", "portatil", "ligera", "autonomia", "suelo", "pisos"]
+  },
+  {
+    "id": "rowenta-xpert-660-aspiradora",
+    "name": "Rowenta XPert 6.60 Aspiradora Escoba Sin Cable 3 en 1",
+    "marca": "Rowenta",
+    "category": "aspiradoras",
+    "price": 119.99,
+    "discountedPrice": 119.99,
+    "affiliate_link": "https://amzn.to/3SVb1Xs",
+    "isFeatured": false,
+    "image_url": "https://m.media-amazon.com/images/I/61FB85oQCqL._AC_SL1500_.jpg",
+    "description": "Aspiradora escoba sin cable de Rowenta con motor de 100W batería de 18V hasta 45 minutos de autonomía en modo eco y gatillo Boost para potencia extra al instante. Cepillo motorizado con luces LED modo Stop&Go y varios accesorios incluidos. Ligera y versátil.",
+    "destacado_editorial": "La aspiradora de gama media que tiene de todo: ligera potente y con LED. Rowenta en estado puro.",
+    "ideal_para": "Quienes buscan una aspiradora inalámbrica de marca reconocida ligera y con buena autonomía para uso diario.",
+    "pros": ["Motor de 100W con gatillo Boost para máxima potencia", "Cepillo con luces LED — ves el polvo que aspiras", "Ligera — el cuerpo de mano pesa solo 1.4kg", "Stop&Go — se queda de pie sola sin apoyarla"],
+    "contras": ["Batería se agota rápido a potencia máxima", "Sin pantalla para ver el nivel de batería", "Gatillo Boost hay que mantenerlo pulsado"],
+    "valoracion_media": 4.2,
+    "resenas_cantidad": 9447,
+    "resenas_resumen": "Una de las aspiradoras inalámbricas más populares en su rango de precio. Los usuarios destacan su ligereza, el cepillo con luces LED y el modo Stop&Go.",
+    "tags": ["aspiradora", "aspirador", "escoba", "inalambrica", "sin cable", "rowenta", "ligera", "led", "boost", "autonomia", "suelo", "pisos", "3 en 1"]
+  },
+  {
+    "id": "cecotec-pure-aroma-300-yang",
+    "name": "Cecotec Pure Aroma 300 Yang Humidificador y Difusor de Aromas",
+    "marca": "Cecotec",
+    "category": "hogar",
+    "price": 24.90,
+    "discountedPrice": 24.90,
+    "affiliate_link": "https://amzn.to/3TaCjsY",
+    "isFeatured": false,
+    "image_url": "https://m.media-amazon.com/images/I/611U4nRGkkL._AC_SL1000_.jpg",
+    "description": "Humidificador ultrasónico y difusor de aromas con depósito de 300ml temporizador hasta 6 horas 7 colores LED y apagado automático. Ultrasilencioso. Ideal para estancias de hasta 15m². También funciona como luz nocturna.",
+    "destacado_editorial": "El difusor de aromas más vendido de España. 25.000 reseñas avalan que funciona de maravilla.",
+    "ideal_para": "Dormitorios habitaciones de bebés o cualquier espacio donde quieras aromaterapia y un toque de luz ambiente.",
+    "pros": ["25.000+ reseñas — el difusor más contrastado de Amazon España", "Ultrasilencioso — ideal para dormir con él", "7 colores LED ajustables + función luz nocturna", "Apagado automático cuando se queda sin agua"],
+    "contras": ["Depósito de 300ml — hay que rellenarlo cada 6 horas", "Cubre hasta 15m² — para habitaciones más grandes puede quedarse corto", "Algunos usuarios señalan que hace un leve zumbido en silencio total"],
+    "valoracion_media": 4.4,
+    "resenas_cantidad": 25108,
+    "resenas_resumen": "El difusor de aromas y humidificador más reseñado de Amazon España con 25.000 valoraciones. Los usuarios lo elogian por su silencio, elegancia de diseño y facilidad de uso.",
+    "tags": ["difusor", "aromas", "humidificador", "aceites", "esenciales", "aromaterapia", "cecotec", "silencioso", "led", "bebe", "dormitorio", "luz nocturna", "ultrasónico"]
+  },
+  {
+    "id": "aroeve-humidificador-2-5l",
+    "name": "AROEVE Humidificador 2.5L con Difusor de Aceites Esenciales",
+    "marca": "AROEVE",
+    "category": "hogar",
+    "price": 34.99,
+    "discountedPrice": 21.86,
+    "affiliate_link": "https://amzn.to/4vcs9pb",
+    "isFeatured": false,
+    "image_url": "https://m.media-amazon.com/images/I/6127SgvP5RL._AC_SL1500_.jpg",
+    "description": "Humidificador ultrasónico de 2.5L con hasta 25 horas de funcionamiento continuo 250ml/h de humidificación y difusor de aceites esenciales. Solo 25dB de ruido. Apagado automático y 7 colores LED. Para habitaciones de 20-25m².",
+    "destacado_editorial": "Gran depósito de 2.5L y precio de oferta. 25 horas sin rellenar y compatible con aceites esenciales.",
+    "ideal_para": "Habitaciones grandes o quienes quieren un humidificador que aguante toda la noche sin rellenar.",
+    "pros": ["2.5L — hasta 25 horas sin rellenar", "Compatible con aceites esenciales directamente", "Solo 25dB — extremadamente silencioso", "Relleno por arriba y por el depósito"],
+    "contras": ["Menos reseñas que la competencia — marca menos conocida", "Algunos usuarios reportan fallos con el tiempo", "Solo aceites hidrosolubles — los no solubles pueden dañarlo"],
+    "valoracion_media": 3.9,
+    "resenas_cantidad": 474,
+    "resenas_resumen": "Humidificador de buena capacidad muy valorado por su gran depósito de 2.5L y silencio extremo de 25dB.",
+    "tags": ["difusor", "aromas", "humidificador", "aceites", "esenciales", "aromaterapia", "silencioso", "led", "dormitorio", "ultrasonico", "gran capacidad", "noche"]
+  },
+  {
+    "id": "cecotec-purearoma-550-connected",
+    "name": "Cecotec PureAroma 550 Connected Difusor con Altavoz Bluetooth",
+    "marca": "Cecotec",
+    "category": "hogar",
+    "price": 37.90,
+    "discountedPrice": 32.90,
+    "affiliate_link": "https://amzn.to/4v2vyXH",
+    "isFeatured": false,
+    "image_url": "https://m.media-amazon.com/images/I/71tXzum7ovL._AC_SL1000_.jpg",
+    "description": "Difusor de aromas 3 en 1: humidificador + difusor + altavoz Bluetooth. Capacidad 500ml cobertura 30m² temporizador de 12 horas pantalla LED con reloj y despertador 3 modos de vapor y 7 colores LED. Control por app.",
+    "destacado_editorial": "El difusor más completo: aromas + altavoz Bluetooth + reloj + control por app. Todo en uno.",
+    "ideal_para": "Quienes quieren un difusor premium con altavoz integrado y control desde el móvil para salones o estudios.",
+    "pros": ["500ml — el doble de capacidad que el modelo básico", "Altavoz Bluetooth integrado", "Control por app y reloj con despertador", "Cobertura de 30m² — válido para salones grandes"],
+    "contras": ["El altavoz Bluetooth tiene calidad básica", "La app puede ser poco intuitiva según usuarios", "Algunos reportan apagados aleatorios en unidades defectuosas"],
+    "valoracion_media": 4.1,
+    "resenas_cantidad": 2380,
+    "resenas_resumen": "Difusor de aromas con funciones premium bien valorado por su diseño elegante y la combinación de humidificador más altavoz.",
+    "tags": ["difusor", "aromas", "humidificador", "aceites", "esenciales", "aromaterapia", "cecotec", "bluetooth", "altavoz", "musica", "app", "reloj", "despertador", "salon"]
+  },
+  {
+    "id": "dreo-humidificador-4l-wifi",
+    "name": "Dreo Humidificador Inteligente WiFi 4L con Difusor de Aromas",
+    "marca": "Dreo",
+    "category": "hogar",
+    "price": 59.99,
+    "discountedPrice": 49.99,
+    "affiliate_link": "https://amzn.to/4wddD1g",
+    "isFeatured": true,
+    "image_url": "https://m.media-amazon.com/images/I/61CO6LxJQ6L._AC_SL1500_.jpg",
+    "description": "Humidificador inteligente WiFi de 4L con control por app Alexa y Google Assistant. 32 horas de autonomía 28dB de ruido sensor de humedad higrómetro de precisión y difusor de aceites esenciales. Niebla de triple tamaño comparado con otros modelos.",
+    "destacado_editorial": "El humidificador inteligente más avanzado del catálogo. WiFi Alexa sensor de humedad y 32 horas de autonomía.",
+    "ideal_para": "Hogares con ecosistema inteligente (Alexa Google) que quieren controlar la humedad con precisión desde el móvil.",
+    "pros": ["Control WiFi via app Alexa y Google Assistant", "Sensor de humedad integrado con modo automático", "4L — 32 horas sin rellenar", "28dB — absolutamente silencioso"],
+    "contras": ["Precio más elevado que otros modelos", "Requiere cartuchos de desmineralización (no incluidos) para agua dura", "Botones del panel no están iluminados en la oscuridad"],
+    "valoracion_media": 4.4,
+    "resenas_cantidad": 9651,
+    "resenas_resumen": "El humidificador inteligente mejor valorado del catálogo con casi 10.000 reseñas. Destaca especialmente por su silencio casi total, el gran depósito de 4L y el sensor de humedad con modo automático.",
+    "tags": ["difusor", "aromas", "humidificador", "aceites", "esenciales", "aromaterapia", "dreo", "wifi", "alexa", "google", "inteligente", "smart", "sensor", "humedad", "silencioso", "gran capacidad"]
   }
 ]
