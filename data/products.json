@@ -56,5 +56,228 @@
     "valoracion_media": 4.1,
     "resenas_cantidad": 1311,
     "resenas_resumen": "Muy valorado por su potencia de succión, base de autovaciado y facilidad de uso desde el primer día. Especialmente recomendado para hogares con mascotas. El mapeo es rápido y preciso y la app destaca por su intuitividad frente a competidores. Como contras algunos usuarios reportan que el fregado es básico comparado con gamas superiores y que puede atascarse con cables. Un caso reportó avería al mes aunque Amazon gestionó bien la garantía."
+  },
+  {
+    "id": "cecotec-cecofry-5500-pro",
+    "name": "Cecotec Cecofry Full InoxBlack 5500 Pro",
+    "marca": "Cecotec",
+    "category": "cocina",
+    "price": 49.90,
+    "discountedPrice": 49.90,
+    "affiliate_link": "https://amzn.to/4wljmSR",
+    "isFeatured": true,
+    "image_url": "https://m.media-amazon.com/images/I/519AN1zQmbL._AC_SL1000_.jpg",
+    "description": "Freidora de aire de 5.5L con 5000 Pa de tecnología PerfectCook y panel táctil. Cocina con una sola cucharada de aceite y cuenta con 8 modos preconfigurados y termostato de 80 a 200°C.",
+    "destacado_editorial": "La freidora de aire más vendida en España. Calidad y precio imbatibles.",
+    "ideal_para": "Familias que buscan cocinar más sano sin complicaciones y con buen presupuesto.",
+    "pros": [
+      "5.5L de capacidad para toda la familia",
+      "8 modos preconfigurados",
+      "Acabados en acero inoxidable resistente",
+      "Tecnología PerfectCook de aire envolvente"
+    ],
+    "contras": [
+      "Sin ventana para ver la cocción",
+      "Un caso de incendio reportado en reseñas (uso incorrecto)",
+      "Puede transferir olores entre preparaciones"
+    ],
+    "valoracion_media": 4.5,
+    "resenas_cantidad": 5029,
+    "resenas_resumen": "Una de las freidoras de aire más valoradas en Amazon España con más de 5000 reseñas. Los usuarios destacan su facilidad de uso limpieza sencilla y resultados crujientes. La relación calidad-precio es su punto fuerte. Algunos mencionan transferencia de olores entre platos y que la función de fregado es básica para pisos grandes."
+  },
+  {
+    "id": "cosori-dual-blaze-twinfry-10l",
+    "name": "Cosori Air Fryer Dual Blaze Twinfry 10L",
+    "marca": "Cosori",
+    "category": "cocina",
+    "price": 229.99,
+    "discountedPrice": 189,
+    "affiliate_link": "https://amzn.to/4axJUrv",
+    "isFeatured": true,
+    "image_url": "https://m.media-amazon.com/images/I/61S8Rt9cIkL._AC_SL1500_.jpg",
+    "description": "Freidora de aire premium de 10L con doble cesta separable y tecnología Dual Blaze que calienta por arriba y por abajo. Cocina dos platos a la vez con función SYNC para que terminen al mismo tiempo. WiFi y app incluidos.",
+    "destacado_editorial": "La freidora de familia definitiva. Cocina un pollo entero y unas patatas a la vez.",
+    "ideal_para": "Familias numerosas o amantes de la cocina que quieren resultados de restaurante en casa.",
+    "pros": [
+      "10L con divisor — cocina 2 platos a la vez",
+      "Dual Blaze calienta arriba y abajo sin precalentar",
+      "Función SYNC sincroniza tiempos de cocción",
+      "WiFi y 70 recetas en app"
+    ],
+    "contras": [
+      "Tamaño grande — ocupa bastante encimera",
+      "Precio elevado",
+      "App con pocas recetas integradas según usuarios"
+    ],
+    "valoracion_media": 4.7,
+    "resenas_cantidad": 4178,
+    "resenas_resumen": "Muy bien valorada por familias y amantes de la cocina. Destacan la gran capacidad la doble resistencia y la función de doble cesta sincronizada. Los resultados de cocción son superiores a freidoras con una sola resistencia. Algunos mencionan que la app podría mejorar y que el tamaño es considerable."
+  },
+  {
+    "id": "cosori-freidora-6-2l",
+    "name": "Cosori Freidora de Aire 6.2L con Ventana",
+    "marca": "Cosori",
+    "category": "cocina",
+    "price": 109.99,
+    "discountedPrice": 109.99,
+    "affiliate_link": "https://amzn.to/4weJMFK",
+    "isFeatured": false,
+    "image_url": "https://m.media-amazon.com/images/I/81dCVbQ7KOL._AC_SL1500_.jpg",
+    "description": "La freidora de aire número 1 en ventas de España con más de 70.000 reseñas. 6.2L de capacidad con ventana iluminada para ver la cocción sin abrir. 13 modos automáticos y tecnología Rapid Air.",
+    "destacado_editorial": "La freidora más vendida en España con 70K reseñas. Un clásico que no defrauda.",
+    "ideal_para": "Hogares de 3 a 5 personas que buscan la freidora de aire más contrastada del mercado.",
+    "pros": [
+      "70.000+ reseñas — la más valorada de España",
+      "Ventana iluminada para ver la cocción",
+      "13 modos automáticos",
+      "Interior de acero inoxidable sin PFAS"
+    ],
+    "contras": [
+      "Sin doble resistencia — hay que dar la vuelta a algunos alimentos",
+      "No tiene WiFi en este modelo",
+      "Precio algo elevado para su gama"
+    ],
+    "valoracion_media": 4.7,
+    "resenas_cantidad": 70356,
+    "resenas_resumen": "La freidora de aire más reseñada de Amazon España con 70K valoraciones. Los usuarios coinciden en que la comida sale sabrosa y crujiente la limpieza es fácil y es muy intuitiva. Ideal para uso diario. Algunos señalan que no tiene doble resistencia por lo que hay que dar la vuelta a ciertos alimentos."
+  },
+  {
+    "id": "ninja-crispi-3-8l",
+    "name": "Ninja CRISPi Freidora de Aire Portátil 3.8L",
+    "marca": "Ninja",
+    "category": "cocina",
+    "price": 179.99,
+    "discountedPrice": 170.86,
+    "affiliate_link": "https://amzn.to/4aXyuxq",
+    "isFeatured": false,
+    "image_url": "https://m.media-amazon.com/images/I/71haA19DnqL._AC_SL1500_.jpg",
+    "description": "Freidora de aire portátil con recipientes de vidrio resistentes al calor aptos para lavavajillas. Incluye 2 tamaños (1.4L y 3.8L) para porciones individuales o familiares. Sin PFAS en la superficie de cocción.",
+    "destacado_editorial": "La freidora más innovadora: portátil con cristal. Llévala donde quieras.",
+    "ideal_para": "Personas que viven solas o parejas con cocinas pequeñas que valoran el diseño y la comodidad.",
+    "pros": [
+      "Recipientes de vidrio — libre de PFAS",
+      "2 tamaños incluidos (1.4L y 3.8L)",
+      "Portátil — úsala en cualquier enchufe",
+      "Apta para lavavajillas al 100%"
+    ],
+    "contras": [
+      "Sin selector de temperatura manual",
+      "Capacidad menor que otras en su precio",
+      "Más lenta que freidoras de cesta tradicional"
+    ],
+    "valoracion_media": 4.5,
+    "resenas_cantidad": 541,
+    "resenas_resumen": "Muy valorada por su diseño portátil y los recipientes de cristal que facilitan la limpieza y eliminan preocupaciones sobre materiales. Los usuarios destacan su practicidad para cocinas pequeñas y parejas. Algunos señalan que es algo más lenta y que no permite ajustar temperatura manualmente."
+  },
+  {
+    "id": "tapo-p100-enchufe",
+    "name": "Tapo P100 Mini Enchufe Inteligente WiFi",
+    "marca": "TP-Link Tapo",
+    "category": "smart-home",
+    "price": 14.99,
+    "discountedPrice": 9.90,
+    "affiliate_link": "https://amzn.to/4eIKJPm",
+    "isFeatured": false,
+    "image_url": "https://m.media-amazon.com/images/I/71aEoXvgIwL._SL1500_.jpg",
+    "description": "Mini enchufe inteligente WiFi compacto que no bloquea enchufes adyacentes. Control remoto desde cualquier lugar con la app Tapo. Compatible con Alexa y Google Home. Sin hub necesario.",
+    "destacado_editorial": "El enchufe inteligente más vendido de España. Sencillo fiable y muy barato.",
+    "ideal_para": "Quienes quieren iniciarse en el hogar inteligente sin gastar más de 10€ por enchufe.",
+    "pros": [
+      "Muy compacto — no bloquea enchufes vecinos",
+      "Sin hub necesario — conecta directo al WiFi",
+      "Compatible con Alexa y Google Home",
+      "App Tapo intuitiva con programación y temporizador"
+    ],
+    "contras": [
+      "Sin monitor de consumo energético",
+      "Solo WiFi 2.4GHz — no compatible con 5GHz",
+      "Solo compatible con app Tapo"
+    ],
+    "valoracion_media": 4.6,
+    "resenas_cantidad": 41480,
+    "resenas_resumen": "Con más de 41.000 reseñas es uno de los enchufes inteligentes más populares de Amazon España. Los usuarios lo destacan por su facilidad de instalación fiabilidad y buena integración con Alexa. El único punto negativo recurrente es que no incluye monitor de consumo energético a diferencia del modelo P110."
+  },
+  {
+    "id": "tapo-p110-4pack",
+    "name": "Tapo P110 Enchufe Inteligente con Monitor de Energía (Pack 4)",
+    "marca": "TP-Link Tapo",
+    "category": "smart-home",
+    "price": 59.99,
+    "discountedPrice": 34.99,
+    "affiliate_link": "https://amzn.to/4bl9KPM",
+    "isFeatured": false,
+    "image_url": "https://m.media-amazon.com/images/I/51nnbPzexaL._AC_SL1000_.jpg",
+    "description": "Pack de 4 enchufes inteligentes WiFi con monitoreo de consumo energético en tiempo real. Programa horarios ve cuánto gasta cada aparato y controla todo desde la app Tapo o con voz. El número 1 más vendido en enchufes inteligentes.",
+    "destacado_editorial": "El número 1 en ventas. Con monitor de energía para saber lo que gasta cada aparato.",
+    "ideal_para": "Hogares que quieren automatizar varios dispositivos a la vez y controlar el gasto eléctrico.",
+    "pros": [
+      "Monitor de consumo en tiempo real",
+      "Pack de 4 — precio por unidad muy competitivo",
+      "Horarios que funcionan sin internet",
+      "Compatible con Alexa y Google Home"
+    ],
+    "contras": [
+      "Solo WiFi 2.4GHz",
+      "Solo compatible con app Tapo",
+      "Alguna desconexión puntual reportada"
+    ],
+    "valoracion_media": 4.7,
+    "resenas_cantidad": 18903,
+    "resenas_resumen": "El enchufe inteligente número 1 en ventas de Amazon España. Muy valorado por su monitor de consumo energético que permite saber en tiempo real lo que gasta cada electrodoméstico. La app es intuitiva y la instalación rápida. Los horarios siguen funcionando aunque se corte internet."
+  },
+  {
+    "id": "tapo-p110-2pack",
+    "name": "Tapo P110 Enchufe Inteligente con Monitor de Energía (Pack 2)",
+    "marca": "TP-Link Tapo",
+    "category": "smart-home",
+    "price": 35.98,
+    "discountedPrice": 18.78,
+    "affiliate_link": "https://amzn.to/4vGZr0Q",
+    "isFeatured": false,
+    "image_url": "https://m.media-amazon.com/images/I/61VmeRaJn8L._AC_SL1500_.jpg",
+    "description": "Pack de 2 enchufes inteligentes WiFi con monitoreo de consumo energético. Controla y programa tus electrodomésticos desde cualquier lugar con la app Tapo. Compatible con Alexa y Google Home.",
+    "destacado_editorial": "Monitor de energía + control total desde el móvil. La opción inteligente para empezar.",
+    "ideal_para": "Quienes quieren controlar 2 dispositivos del hogar con monitoreo de consumo incluido.",
+    "pros": [
+      "Monitor de consumo energético en tiempo real",
+      "Pack de 2 a precio muy competitivo",
+      "Horarios que funcionan sin internet",
+      "Compatible con Alexa y Google Home"
+    ],
+    "contras": [
+      "Solo WiFi 2.4GHz",
+      "Solo compatible con app Tapo"
+    ],
+    "valoracion_media": 4.7,
+    "resenas_cantidad": 18903,
+    "resenas_resumen": "Mismo modelo que el pack de 4 pero en versión de 2 unidades para quienes no necesitan tantos enchufes. Excelente relación calidad-precio con monitor de energía incluido. Muy fácil de instalar y fiable según los usuarios."
+  },
+  {
+    "id": "wiz-enchufe-matter",
+    "name": "WiZ Enchufe Inteligente WiFi con Certificación Matter",
+    "marca": "WiZ by Philips",
+    "category": "smart-home",
+    "price": 11.99,
+    "discountedPrice": 11.99,
+    "affiliate_link": "https://amzn.to/4oT6kt6",
+    "isFeatured": false,
+    "image_url": "https://m.media-amazon.com/images/I/71gs+yQOJxL._AC_SL1500_.jpg",
+    "description": "Enchufe inteligente WiFi con certificación Matter — el estándar universal del hogar inteligente. Compatible con Alexa Google Home y Apple Home sin configuración complicada. De Signify la empresa detrás de Philips Hue.",
+    "destacado_editorial": "El único enchufe con Matter que funciona con Alexa Google y Apple Home a la vez.",
+    "ideal_para": "Usuarios de Apple Home o ecosistemas mixtos que quieren un enchufe compatible con todo.",
+    "pros": [
+      "Certificación Matter — compatible con Alexa Google y Apple Home",
+      "De Signify — empresa de Philips Hue",
+      "Instalación por QR — sin configurar redes",
+      "Precio muy competitivo"
+    ],
+    "contras": [
+      "Sin monitor de consumo energético",
+      "Menos reseñas que Tapo — marca más nueva en este segmento",
+      "Un caso de avería a los 3 días reportado"
+    ],
+    "valoracion_media": 4.5,
+    "resenas_cantidad": 84,
+    "resenas_resumen": "Enchufe reciente con certificación Matter que facilita la integración con cualquier ecosistema de hogar inteligente incluyendo Apple Home. Los usuarios destacan la facilidad de instalación mediante código QR y la compatibilidad universal. Pocas reseñas aún por ser producto reciente pero muy bien valorado."
   }
 ]
